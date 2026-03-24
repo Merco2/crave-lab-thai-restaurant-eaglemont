@@ -10,6 +10,11 @@ Custom static microsite for Crave Lab Thai Restaurant in Eaglemont, Victoria.
 - Dynamic open/closed status based on `Australia/Melbourne`
 - Ready for GitHub Pages deployment
 
+## Live links
+
+- Website: https://merco2.github.io/crave-lab-thai-restaurant-eaglemont/
+- Repository: https://github.com/Merco2/crave-lab-thai-restaurant-eaglemont
+
 ## Public sources used
 
 - Google Maps link supplied by the client
